@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @denjiyy
+- 👀 I’m interested in C#, .NET, SQL, HTML, CSS, JavaScript
+- 🌱 I’m currently learning MSSQL Databases
+- 📫 How to reach me? E-Mail: tabutovdenis@gmail.com
