@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @denjiyy
+- 👋 Hi, I’m Denis
 - 👀 I’m interested in C#, .NET, SQL, HTML, CSS, JavaScript
 - 📫 How to reach me? E-Mail: tabutovdenis@gmail.com
